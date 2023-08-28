@@ -1,3 +1,5 @@
 Testing Git bash.
 Commited version 1.
 updating the file.
+adding version 3.
+and commiting it.
